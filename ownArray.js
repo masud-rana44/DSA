@@ -13,7 +13,7 @@ class Array {
     if (index < 0) {
       return undefined;
     }
-    return this.data[`${index}`];
+    return this.data[index];
   }
 
   pop() {
