@@ -90,6 +90,8 @@ class BinarySearchTree {
 
         // Option 3: Right child, that has a left child
         if (currentNode.right.left) {
+          if (!parentNode) {
+          }
         }
       }
     }
