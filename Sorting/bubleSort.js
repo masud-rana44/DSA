@@ -18,4 +18,4 @@ const bubleSort = function (arr) {
   console.log(count);
 };
 
-bubleSort([7, 6, 5, 4, 3, 2, 1]);
+bubleSort([99, 44, 6, 2, 1, 5, 63, 87, 283, 4, 0]);
